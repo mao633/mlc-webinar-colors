@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MLC Presentation Design Consulting//Webinar Colori 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-06-colori-en@mlcpresentations.com
+DTSTAMP:20260925T090000Z
+DTSTART:20261006T150000Z
+DTEND:20261006T160000Z
+SUMMARY:How to choose the right colors in your presentations | MLC
+DESCRIPTION:Free MLC webinar with Geetika Shetty.\n\nThe lean presentatio
+ n design and neuro presentation design techniques to choose the colors t
+ hat actually steer your audience's attention.\n\nJoin here: https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_NzZlYTlhMWUtNjVmNC00ODJiLWFjM
+ WItZDAyZDM0YmZhZTI3%40thread.v2/0?context=%7b%22Tid%22%3a%22241f331d-7e8
+ 3-4152-b1a4-8b478aeac9c3%22%2c%22Oid%22%3a%224cfc373b-4912-4b00-99ee-061
+ 59eb53f0f%22%7d\n\nEvent page: https://webinar.mlcpresentations.com/?lan
+ g=en
+LOCATION:Microsoft Teams
+URL:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzZlYTlhMWUtNj
+ VmNC00ODJiLWFjMWItZDAyZDM0YmZhZTI3%40thread.v2/0?context=%7b%22Tid%22%3a
+ %22241f331d-7e83-4152-b1a4-8b478aeac9c3%22%2c%22Oid%22%3a%224cfc373b-491
+ 2-4b00-99ee-06159eb53f0f%22%7d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:The MLC webinar on colors starts in 15 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR

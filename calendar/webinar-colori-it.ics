@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MLC Presentation Design Consulting//Webinar Colori 2026//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-06-colori-it@mlcpresentations.com
+DTSTAMP:20260925T090000Z
+DTSTART:20261006T100000Z
+DTEND:20261006T110000Z
+SUMMARY:Come scegliere i colori giusti nelle tue presentazioni | MLC
+DESCRIPTION:Webinar gratuito MLC con Giorgia Tognon.\n\nLe tecniche di le
+ an presentation design e neuro presentation design per scegliere i color
+ i che guidano davvero l'attenzione della tua audience.\n\nLink per parte
+ cipare: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjA1YmFkZ
+ DAtZjYyNy00OTBlLThjOTUtNGYzY2Q2ODZhZGZi%40thread.v2/0?context=%7b%22Tid%
+ 22%3a%22241f331d-7e83-4152-b1a4-8b478aeac9c3%22%2c%22Oid%22%3a%224cfc373
+ b-4912-4b00-99ee-06159eb53f0f%22%7d\n\nPagina dell'evento: https://webin
+ ar.mlcpresentations.com/?lang=it
+LOCATION:Microsoft Teams
+URL:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjA1YmFkZDAtZj
+ YyNy00OTBlLThjOTUtNGYzY2Q2ODZhZGZi%40thread.v2/0?context=%7b%22Tid%22%3a
+ %22241f331d-7e83-4152-b1a4-8b478aeac9c3%22%2c%22Oid%22%3a%224cfc373b-491
+ 2-4b00-99ee-06159eb53f0f%22%7d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Il webinar MLC sui colori inizia tra 15 minuti
+END:VALARM
+END:VEVENT
+END:VCALENDAR
